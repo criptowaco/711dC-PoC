@@ -87,11 +87,11 @@
 
 ## 7. Referencias para consulta y citación
 
-- Witiza (c. 687-710): MCN Biografías, Wikipedia, Ecured [23][28][60].
-- Sociedad y estructura visigoda: Muy Interesante (2023), España en la Historia (2024) [64][65].
-- Hipótesis de Emilio González Ferrín sobre la conquista gradual: El País (2024), El Salto Diario (2018) [34][35].
-- Historia política y jurídica: Wikipedia, Dialnet [12][66].
-- Contexto histórico y cronologías: Desperta Ferro, Historia Hispánica [61][24].
+- Witiza (c. 687-710): MCN Biografías, Wikipedia, Ecured 
+- Sociedad y estructura visigoda: Muy Interesante (2023), España en la Historia (2024) 
+- Hipótesis de Emilio González Ferrín sobre la conquista gradual: El País (2024), El Salto Diario (2018)
+- Historia política y jurídica: Wikipedia, Dialnet 
+- Contexto histórico y cronologías: Desperta Ferro, Historia Hispánica 
 
 
 
