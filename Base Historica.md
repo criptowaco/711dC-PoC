@@ -1,6 +1,6 @@
 # Documentación Histórica Base para Proyecto 711: La Hispania Visigoda y la Conquista Musulmana (siglo VII - 711)
 
----
+*Este documento sirve como base histórica completa y referenciada para situar a las personas que deseen contribuir al desarrollo narrativo y creativo de este proyecto colaborativo en GitHub.*
 
 ## 1. Antecedentes históricos: Desintegración del Imperio Romano y Formación del Reino Visigodo
 
@@ -8,9 +8,9 @@
 - Los visigodos, una tribu germánica originaria de Germania, inicialmente aliados o enemigos de Roma, se establecieron en la península Ibérica y el sur de la actual Francia tras las invasiones bárbaras del siglo V.
 - En 507, tras la derrota en la batalla de Vouillé frente a los francos, los visigodos perdieron gran parte de sus territorios en la Galia y se concentraron en Hispania, consolidando un reino en la península.
 - Se fusionaron culturalmente con la población hispanorromana, pero mantuvieron ciertas distinciones étnicas, sociales y religiosas.  
-_(Referencias: [69], [70], [12])_
 
----
+
+
 
 ## 2. Contexto Político y Social en la Hispania Visigoda (siglos VI-VII)
 
@@ -20,7 +20,7 @@ _(Referencias: [69], [70], [12])_
 - El poder del rey dependía de su habilidad para tejer alianzas y redes clientelares con las élites territoriales poderosas (nobleza, obispos, militares).
 - El reino estaba dividido en provincias gobernadas por duques (dux) y condes (comes).
 - Las instituciones municipales tradicionales romanas habían decaído; el control tributario y administrativo recaía en la nobleza y militares regionales.  
-_(Referencias: [64], [65], [12])_
+
 
 ### B. Sociedad y jerarquía social
 
@@ -32,16 +32,16 @@ _(Referencias: [64], [65], [12])_
   - **Esclavos**: En menor número que en época romana.
 - El sistema legal distinguía fuertemente según clase: más penas económicas para nobles, castigos corporales y esclavitud para bajas clases.
 - La romanización había avanzado, pero persistían diferencias culturales y sociales entre visigodos e hispanorromanos.  
-_(Referencias: [64], [66], [67])_
+
 
 ### C. Crisis y conflictos internos
 
 - El reino visigodo estuvo marcado por constantes guerras civiles, golpes de estado y conspiraciones debido a la ambigüedad en la sucesión.
 - La nobleza estaba fragmentada, compitiendo entre sí por influencia y tierras.
 - Las reformas de Égica y Witiza intentaron estabilizar el reino pero no lograron evitar la crisis final.  
-_(Referencias: [60], [28], [23])_
 
----
+
+
 
 ## 3. Situación específica durante el reinado de Witiza (c. 698–710)
 
@@ -49,9 +49,9 @@ _(Referencias: [60], [28], [23])_
 - Aplicó reformas para atenuar la persecución religiosa (sobre todo hacia los judíos) y regular la propiedad.
 - Reforzó la nobleza local y la Iglesia, pero su reinado fue corto y controversial, con rumores y conspiraciones al final.
 - La estabilidad fue débil y el reino se dividió a la muerte de Witiza entre partidarios de Rodrigo y de Agila II, su sucesor político o hijo.  
-_(Referencias: [60], [28], [23])_
 
----
+
+
 
 ## 4. Corrientes migratorias y contexto geopolítico externo (Norte de África y Oriente)
 
@@ -60,7 +60,7 @@ _(Referencias: [60], [28], [23])_
 - En este contexto, el norte africano pasó a ser base para la invasión musulmana de Hispania en 711.
 - Las tensiones sociales y políticas dentro del reino visigodo facilitaron que grupos locales o descontentos dieran apoyo o pactaran con los invasores.
 
----
+
 
 ## 5. La invasión musulmana y la hipótesis de Emilio González Ferrín
 
@@ -68,9 +68,9 @@ _(Referencias: [60], [28], [23])_
 - Emilio González Ferrín plantea una **hipótesis de conquista gradual**, en la que la entrada musulmana fue un proceso pactado y negociado con parte de la nobleza visigoda, más que una invasión total.
 - Según Ferrín, la conquista fue un proceso de paz-civilización que se extendió durante años, consolidándose a través de alianzas, capitulaciones y pactos que permitieron la integración progresiva del territorio y población hispanorromana al nuevo régimen.
 - Las fuentes sobre la invasión son fragmentarias y tardías, dando lugar a vacíos interpretativos que pueden ser rellenados con fidelidad histórica o licencias creativas en narrativas y juegos.  
-_(Referencias: [34], [35], [36])_
 
----
+
+
 
 ## 6. Vacíos históricos para licencias creativas
 
@@ -83,7 +83,7 @@ _(Referencias: [34], [35], [36])_
 - **Relatos sobre pactos secretos, traiciones y complots**: Abundantes en la tradición oral o textos fragmentarios, ideales para intrigas.
 - **Elementos sobrenaturales**: Apariciones, signos, visiones o amuletos ligados a mitos locales.
 
----
+
 
 ## 7. Referencias para consulta y citación
 
@@ -93,7 +93,7 @@ _(Referencias: [34], [35], [36])_
 - Historia política y jurídica: Wikipedia, Dialnet [12][66].
 - Contexto histórico y cronologías: Desperta Ferro, Historia Hispánica [61][24].
 
----
 
-*Este documento sirve como base histórica completa y referenciada para situar a las personas que deseen contribuir al desarrollo narrativo y creativo de este proyecto colaborativo en GitHub.*
+
+
 
