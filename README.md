@@ -5,7 +5,6 @@
 
 **711dC** es un proyecto abierto y experimental para crear un juego narrativo de rol ambientado en el año 711 d.C., en el sur de la península ibérica, durante el declive del reino visigodo y la inminente invasión musulmana. Combinando historia, fantasía, toma de decisiones y herramientas de inteligencia artificial, buscamos crear una experiencia educativa e inmersiva para jóvenes jugadores.
 
----
 
 ## Propósito del Proyecto
 
