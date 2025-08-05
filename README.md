@@ -6,6 +6,7 @@
 **711dC** es un proyecto abierto y experimental para crear un juego narrativo de rol ambientado en el año 711 d.C., en el sur de la península ibérica, durante el declive del reino visigodo y la inminente invasión musulmana. Combinando historia, fantasía, toma de decisiones y herramientas de inteligencia artificial, buscamos crear una experiencia educativa e inmersiva para jóvenes jugadores.
 
 
+
 ## Propósito del Proyecto
 
 - Explorar y enseñar historia a través del **juego de rol narrativo**.
@@ -13,7 +14,7 @@
 - Crear un juego de código abierto, accesible para nuevos creadores.
 - Fomentar la **colaboración creativa** entre escritores, ilustradores, desarrolladores y entusiastas de la historia.
 
----
+
 
 ## Estructura Argumental
 
@@ -23,7 +24,7 @@ La historia se divide en **tres actos**, cada uno centrado en un momento clave d
 2. **Acto II – La guerra civil**: Tras la muerte del rey Witiza, el reino se divide. El jugador presencia los conflictos internos que debilitan el poder visigodo.
 3. **Acto III – La invasión**: Las fuerzas musulmanas cruzan el estrecho. El destino de la península cambia para siempre, y las decisiones pasadas del jugador cobran un nuevo peso.
 
----
+
 
 ## Metodología y uso de IA
 
@@ -38,12 +39,12 @@ Este proyecto hace uso de diferentes modelos de IA para tareas específicas:
 | Codificación interactiva         | Python / Ink / Twine                     |
 | Diseño de interfaz web (opcional)| Svelte / React con TailwindCSS          |
 
----
+
 
 ## Estructura del repositorio
 
 
----
+
 
 ## Cómo contribuir
 
@@ -65,7 +66,7 @@ Este es un proyecto **abierto a todo el mundo**, especialmente a personas sin ex
 
 > Si no sabes usar GitHub, puedes enviarnos tus textos o dibujos por correo o Discord y nosotros los subiremos.
 
----
+
 
 ## ⚠️ Disclaimer
 
@@ -73,13 +74,13 @@ Este es un proyecto **abierto a todo el mundo**, especialmente a personas sin ex
 
 La versión actual es solo una **prueba de concepto narrativa**. No representa aún un producto final ni una simulación históricamente exacta. Algunos personajes, eventos o instituciones son reinterpretaciones literarias pensadas para facilitar el aprendizaje y la inmersión narrativa.
 
----
+
 
 ## Créditos y licencias
 
 Todo el contenido original será compartido bajo licencia **Creative Commons BY-SA 4.0** o similar. Las herramientas de IA utilizadas pueden tener sus propios términos de uso, que deben respetarse.
 
----
+
 
 ## Próximos pasos
 
@@ -88,11 +89,8 @@ Todo el contenido original será compartido bajo licencia **Creative Commons BY-
 - [ ] Incluir rama de pruebas para versión Twine / Ink
 - [ ] Abrir propuestas de contenido narrativo colaborativo
 
----
 
-**¿Quieres formar parte?**  
-Únete y ayuda a reimaginar la historia desde las raíces.  
-Cada decisión cuenta.
+
 
 
 
